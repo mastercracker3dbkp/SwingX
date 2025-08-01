@@ -1,4 +1,4 @@
-SwingX is a powerful extension library for Java Swing, now actively maintained by MC3D and fully compatible with Java 8 through Java 25.
+# SwingX is a powerful extension library for Java Swing, now actively maintained by MC3D and fully compatible with Java 8 through Java 25.
 
 Originally developed by the SwingLabs project, SwingX enhances the standard Java Swing toolkit with advanced GUI components, modern visuals, and built-in utilities that simplify the development of rich desktop applications.
 
